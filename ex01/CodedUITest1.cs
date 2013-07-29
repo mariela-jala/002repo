@@ -16,6 +16,7 @@ namespace ex01
     /// Summary description for CodedUITest1
 	////editeddddd
 	//// second edition Heimy
+	//// editionmnnnnnnnnnnnnn
     /// </summary>
     [CodedUITest]
     public class CodedUITest1
